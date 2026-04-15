@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Noble Gas</title>
+    <style>
+        .error { color: red; }
+        .success { color: black; }
+    </style>
+</head>
+<body>
+
+<h1 id="display-header">What does noble gas bond with?</h1>
+<div id="comment-section"></div>
+
+<button onclick="checkAnswer(false)">Carbon</button>
+<button onclick="checkAnswer(false)">Hydrogen</button>
+<button onclick="checkAnswer(false)">Sodium</button>
+<button onclick="checkAnswer(true)">Fluorine</button>
+
+<script>
+    function checkAnswer(isCorrect) {
+        const header = document.getElementById('display-header');
+        const comments = document.getElementById('comment-section');
+        
+        if (isCorrect) {
+            header.innerHTML = "Product: XeF4";
+            header.className = "success";
+            comments.innerHTML = `
+                <p>you can have my electrons</p>
+                <p>wow so stable</p>
+                <p>we da best bond</p>
+            `;
+        } else {
+            header.innerHTML = "WRONG";
+            header.className = "error";
+            comments.innerHTML = ""; 
+        }
+    }
+</script>
+
+</body>
+</html>
