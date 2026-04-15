@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ### What is this?
-A chemistry quiz focused on noble gas bonding. Built with a "Default Old UI" aesthetic because modern CSS is overrated. Made entirely by me (Froxbi) only.
+A chemistry quiz focused on noble gas bonding. Built with a "Default Old UI" aesthetic because modern CSS is overrated. Made entirely by me (Froxbi).
 
 ### Features
 - 100% Raw HTML/JS.
