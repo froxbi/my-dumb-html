@@ -17,3 +17,6 @@ A chemistry quiz focused on noble gas bonding. Built with a "Default Old UI" aes
 [**Click here to play the game live!**](https://froxbi.github.io/my-dumb-html/)
 
 *Want to make your own version? See [EDITING.md](./EDITING.md) for instructions.*
+
+**REMINDER!**
+This is not a complex or long or very interactive HTML! And this project doesn't have great UX because I'm new to GitHub!
