@@ -1,6 +1,6 @@
 # How to Edit & Play 🛠️
 
-Since this is open-source, you can fork this project and make your own "dumb" version.
+Since this is open-source, you can fork this project and make your own **"dumb"** version.
 
 ### 1. Create your Sandbox
 - Click the **Fork** button at the top right of the main repository page.
@@ -16,4 +16,4 @@ Since this is open-source, you can fork this project and make your own "dumb" ve
 - Under **Branch**, select `main` and make sure it's set to /(root), and hit **Save**.
 - Wait 60 seconds, then refresh the page. GitHub will give you your own unique URL.
 
-***Have fun!***
+***Have fun! Or be bored.***
