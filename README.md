@@ -1,6 +1,6 @@
 # my-dumb-html
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Status](https://img.shields.io/badge/Status-Dumb-brightgreen)
 ### What is this?
 A chemistry quiz focused on noble gas bonding. Built with a "Default Old UI" aesthetic because modern CSS is overrated anyways. But also very short, doesn't even deserve a repo.
 
